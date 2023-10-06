@@ -1,0 +1,88 @@
+#clientPage {
+    min-height: calc(90vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#contact {
+    padding: 2rem;
+}
+
+.contactPageTitle {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: rgb(238, 129, 5);
+}
+
+
+.contactDesc {
+    padding: 1rem;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.contactForm {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    max-width: 60rem;
+}
+
+.name, .email, .msg {
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(40, 40, 40);
+}
+
+.submitBtn {
+    background: rgb(238, 129, 5);
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 0. 0.75rem;
+    padding: 0.75rem 3.5rem;
+    cursor: pointer;
+}
+
+.submitBtn:hover{
+     background: black;
+     color: orange;
+}
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.link {
+    cursor: pointer;
+    color: white;
+    object-fit: cover;
+    margin: 1rem 0.3rem;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 12px;
+    
+}
+
+.link:hover {
+    background-color: orange;
+}
