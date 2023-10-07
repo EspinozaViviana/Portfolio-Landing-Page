@@ -1,8 +1,8 @@
 Esta Landing-Page esta hecha como parte de un trabajo práctico de un BOOTCAMP - React JS + Backend development. 
-Me sirvió para implementar los canocimientos que poseo basicamente en frontend, con lo adquiridos recientemente.
+Me sirvió para implementar los canocimientos que poseo basicamente en Frontend, con lo adquiridos recientemente.
 Utilicé React, Html, CSS, JS. Es una pagina simple pero fue útil para refrescar lo dado y comparar las herramientas actuales con las que ya no lo son tanto. 
 
-PRIMER TRABAJO PRACTICO FINAL
+PRIMER TRABAJO PRACTICO FINAL - 
 Requisitos para la aprobación:
 La pagina tiene que estar al 100% detalla  de la original.
 Dos alumnos no pueden elegir el mismo proyecto.
@@ -18,6 +18,13 @@ Los efectos del hover y o efectos de animaciones son necesarios y quedan a cargo
 Se puede usar cualquier framework de css.
 
 Este es el ejemplo que tome: https://www.behance.net/gallery/177196405/Personal-Portfolio-website?tracking_source=search_projects|portfolio+website
+
+Este es el link de deploy de mi landing- page: https://stalwart-taiyaki-756b15.netlify.app
+
+Quedan funcionalidades por completar y seguramente detalles para agregar o quitar. El mundo del diseño es muy amplio , "Si lo imaginamos se puede crear programando" gracias a la herramientas que día a día presentan mejoras y facilidades. 
+A no desanimarse y a seguir diseñando con la programación!!!
+
+
 
 
 
